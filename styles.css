@@ -16,6 +16,10 @@ body {
 	padding-left: 96px;
 	padding-right: 96px;
 }
+.subheader-left {
+	display: flex;
+	flex-direction: column;
+}
 
 ul {
 	display: flex;
