@@ -32,7 +32,9 @@ ul {
 	background-color: #1f2937;
 	display: flex;
 	justify-content: space-between;
+	gap: 48px;
 	align-items: center;
+	padding: 32px;
 	padding-left: 96px;
 	padding-right: 96px;
 }
