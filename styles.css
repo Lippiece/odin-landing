@@ -38,7 +38,7 @@ ul {
 	padding-left: 96px;
 	padding-right: 96px;
 }
-.image-wrapper {
+.sub-image-wrapper {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -62,6 +62,7 @@ img {
 	padding-left: 96px;
 	padding-right: 96px;
 }
+
 .info * {
 	color: black;
 }
@@ -70,8 +71,7 @@ img {
 	align-items: center;
 	justify-content: space-between;
 }
-	color: black;
-}
+.infocard {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
