@@ -59,6 +59,8 @@ img {
 .info {
 	display: flex;
 	flex-direction: column;
+	padding-left: 96px;
+	padding-right: 96px;
 }
 .info * {
 	color: black;
