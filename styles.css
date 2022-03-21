@@ -38,12 +38,18 @@ ul {
 	padding-left: 96px;
 	padding-right: 96px;
 }
-.placeholder {
-	width: 300;
-	height: 300;
-	background-repeat: no-repeat;
-	background-size: contain;
-	background-image: url("./300.png");
+.image-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex: 1 1 0%;
+	max-width: 100%;
+	height: auto;
+}
+img {
+	/* width: min-content; */
+	height: auto;
+	max-width: 100%;
 }
 .subheader-left {
 	display: flex;
