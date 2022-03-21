@@ -57,13 +57,16 @@ img {
 }
 
 .info {
-	background-color: burlywood;
-	display: flex;
-	flex-direction: column;
 	justify-content: space-evenly;
 	align-items: center;
 }
-.cards {
+.info * {
+	color: black;
+}
+	color: black;
+}
+	color: black;
+}
 	display: flex;
 	gap: 16px;
 }
