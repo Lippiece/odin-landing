@@ -101,12 +101,6 @@ img {
 }
 .inspire * {
 	color: black;
-.inspire * {
-	color: black;
-	/* 36px light italic */
-	font-size: 36px;
-	font-weight: lighter;
-	font-style: italic;
 }
 .quote {
 	/* 36px light italic */
