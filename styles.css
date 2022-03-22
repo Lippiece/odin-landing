@@ -1,6 +1,22 @@
 * {
 	color: wheat;
 }
+ul {
+	display: flex;
+}
+a {
+	text-decoration: none;
+	color: wheat;
+}
+button {
+	color: black;
+}
+.text-header {
+	text-align: center;
+	font-size: large;
+	font-weight: bold;
+	padding-bottom: 16px;
+}
 
 body {
 	display: flex;
@@ -8,7 +24,6 @@ body {
 	justify-content: space-between;
 	margin: 0;
 	height: 100vh;
-	overflow: hidden;
 	font-family: Roboto, sans-serif;
 }
 
@@ -81,8 +96,6 @@ img {
 	background-color: darkolivegreen;
 	/* display: flex;
 	flex-direction: column;
-	align-items: center;
-	justify-content: center; */
 }
 p {
 	margin: 0;
@@ -103,21 +116,4 @@ p {
 
 .footer {
 	text-align: center;
-}
-
-ul {
-	display: flex;
-}
-a {
-	text-decoration: none;
-	color: wheat;
-}
-button {
-	color: black;
-}
-.text-header {
-	text-align: center;
-	font-size: large;
-	font-weight: bold;
-	padding-bottom: 16px;
 }
