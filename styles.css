@@ -152,6 +152,15 @@ img {
 	display: flex;
 	flex-direction: column;
 }
+.call button {
+	font-family: Roboto, sans-serif;
+	background-color: rgb(108, 108, 206);
+	color: #f9faf8;
+	border: 1px white;
+	border-radius: 15%;
+	flex: 0 1 0%;
+	padding: 8px;
+}
 
 .footer {
 	background-color: #1f2937;
