@@ -112,6 +112,8 @@ img {
 	align-items: center;
 }
 .infocard p {
+	color: #1f2937;
+	font-weight: 600;
 	margin: 0;
 	padding: 0;
 }
@@ -134,6 +136,8 @@ img {
 }
 .author {
 	text-align: end;
+	font-weight: bold;
+	font-size: 24px;
 }
 
 .call {
@@ -152,6 +156,13 @@ img {
 .call-content {
 	display: flex;
 	flex-direction: column;
+}
+.call-content * {
+	margin: 0;
+}
+.call-header {
+	font-size: 24px;
+	font-weight: bold;
 }
 .call button {
 	font-family: Roboto, sans-serif;
