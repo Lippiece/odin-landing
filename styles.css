@@ -53,6 +53,8 @@ li {
 	flex: 1 1 0%;
 	max-width: 100%;
 	height: auto;
+	border: 2px solid #f9faf8;
+	border-radius: 6px;
 }
 img {
 	/* width: min-content; */
