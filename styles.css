@@ -70,6 +70,10 @@ img {
 	margin: 0;
 	padding: 0;
 }
+.subheader-left p {
+	margin-bottom: 4px;
+	margin-top: 0;
+}
 .subheader button {
 	padding: 6px;
 	padding-left: 16px;
