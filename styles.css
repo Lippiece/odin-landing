@@ -106,6 +106,12 @@ img {
 	padding-left: 96px;
 	padding-right: 96px;
 }
+.card-image-wrapper {
+	background-color: #1f2937;
+	border: 4px solid #1f2937;
+	border-radius: 6px;
+	height: fit-content;
+}
 .infocard {
 	display: flex;
 	flex-direction: column;
