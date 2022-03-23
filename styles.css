@@ -147,6 +147,7 @@ img {
 }
 
 .call {
+	background-color: rgb(108, 108, 206);
 	margin: 180px;
 	margin-top: 32px;
 	margin-bottom: 32px;
