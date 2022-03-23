@@ -1,15 +1,15 @@
 * {
-	color: wheat;
+	color: #f9faf8;
 }
 ul {
 	display: flex;
 }
 a {
 	text-decoration: none;
-	color: wheat;
+	color: #f9faf8;
 }
 button {
-	color: black;
+	color: #1f2937;
 }
 .text-header {
 	text-align: center;
@@ -26,10 +26,10 @@ body {
 	height: 100vh;
 	font-family: Roboto, sans-serif;
 }
-
 body * {
 	flex: 1;
 }
+
 .header {
 	background-color: #1f2937;
 	display: flex;
@@ -77,9 +77,8 @@ img {
 	padding-left: 96px;
 	padding-right: 96px;
 }
-
 .info * {
-	color: black;
+	color: #1f2937;
 }
 .cards {
 	display: flex;
@@ -100,10 +99,9 @@ img {
 	flex-direction: column;
 }
 .inspire * {
-	color: black;
+	color: #1f2937;
 }
 .quote {
-	/* 36px light italic */
 	font-size: 36px;
 	font-weight: lighter;
 	font-style: italic;
@@ -130,5 +128,6 @@ img {
 }
 
 .footer {
+	background-color: #1f2937;
 	text-align: center;
 }
