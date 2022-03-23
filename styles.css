@@ -95,6 +95,7 @@ img {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+	margin-bottom: 36px;
 }
 .infocard {
 	display: flex;
