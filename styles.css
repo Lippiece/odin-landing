@@ -49,9 +49,7 @@ ul {
 	justify-content: space-between;
 	gap: 48px;
 	align-items: center;
-	padding: 32px;
-	padding-left: 96px;
-	padding-right: 96px;
+	padding: 96px;
 }
 .sub-image-wrapper {
 	display: flex;
