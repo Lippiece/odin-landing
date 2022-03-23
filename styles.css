@@ -95,6 +95,12 @@ img {
 .info * {
 	color: #1f2937;
 }
+#info-header {
+	font-size: 36px;
+	font-weight: bolder;
+	color: #1f2937;
+	text-align: center;
+}
 .cards {
 	display: flex;
 	align-items: center;
