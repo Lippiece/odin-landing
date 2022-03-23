@@ -157,8 +157,8 @@ img {
 	font-family: Roboto, sans-serif;
 	background-color: rgb(108, 108, 206);
 	color: #f9faf8;
-	border: 1px white;
-	border-radius: 15%;
+	border: 2px solid white;
+	border-radius: 8px;
 	flex: 0 1 0%;
 	padding: 8px;
 }
