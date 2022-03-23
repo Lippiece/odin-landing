@@ -147,6 +147,7 @@ img {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	border-radius: 10px;
 }
 .call-content {
 	display: flex;
