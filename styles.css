@@ -1,23 +1,10 @@
 * {
 	color: #f9faf8;
 }
-ul {
-	display: flex;
-}
 a {
 	text-decoration: none;
 	color: #f9faf8;
 }
-button {
-	color: #1f2937;
-}
-.text-header {
-	text-align: center;
-	font-size: large;
-	font-weight: bold;
-	padding-bottom: 16px;
-}
-
 body {
 	display: flex;
 	flex-direction: column;
@@ -33,14 +20,22 @@ body * {
 .header {
 	background-color: #1f2937;
 	display: flex;
-	justify-content: space-between;
 	align-items: center;
 	padding-left: 96px;
 	padding-right: 96px;
 	padding-top: 0;
+	justify-content: end;
+}
+.header > a {
+	font-size: 24px;
 }
 ul {
-	gap: 16px;
+	display: flex;
+	justify-content: space-evenly;
+}
+li {
+	flex-grow: 0;
+	flex-basis: auto;
 }
 
 .subheader {
