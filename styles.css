@@ -135,11 +135,11 @@ img {
 
 .call {
 	background-color: rgb(41, 62, 182);
-	margin: 96px;
+	margin: 240px;
 	margin-top: 32px;
 	margin-bottom: 32px;
-	padding-left: 96px;
-	padding-right: 96px;
+	padding-left: 72px;
+	padding-right: 72px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
