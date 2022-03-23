@@ -63,6 +63,13 @@ img {
 	display: flex;
 	flex-direction: column;
 }
+#subheader-header {
+	font-size: 48px;
+	font-weight: bolder;
+	padding-bottom: 16px;
+	margin: 0;
+	padding: 0;
+}
 
 .info {
 	display: flex;
